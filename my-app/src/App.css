@@ -1,0 +1,43 @@
+/* App.css */
+
+.App {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 800px; /* Ширина контейнера */
+  border-radius: 10px; /* Закругление углов */
+  background-color: #f8f9fa; /* Цвет фона */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Тень */
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  border-top-left-radius: 10px; /* Закругление верхних левых углов */
+  border-top-right-radius: 10px; /* Закругление верхних правых углов */
+}
+
+main {
+  margin-top: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+  border-radius: 8px; /* Закругление углов */
+  background-color: #fff; /* Цвет фона */
+  padding: 20px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); /* Тень */
+}
+
+footer {
+  margin-top: 40px;
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  border-bottom-left-radius: 10px; /* Закругление нижних левых углов */
+  border-bottom-right-radius: 10px; /* Закругление нижних правых углов */
+}
+/* App.animations.css */
+
